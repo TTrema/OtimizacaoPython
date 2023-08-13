@@ -10,7 +10,8 @@ Um Script feito em Python usando Pulp para resolver problemas de otimização li
 
 ## Demosntração dos resultados:
 
-    ![Imagem1 demonstrando o resultado](arquivos/resultado.png)
-    ![Imagem2 demonstrando o resultado](arquivos/grafico.png)
+    ![Imagem1 demonstrando o resultado](/arquivos/resultado.png)
+    ![Imagem2 demonstrando o resultado](https://github.com/TTrema/OtimizacaoPython/blob/main/arquivos/grafico.png?raw=true)
+    
 
 
