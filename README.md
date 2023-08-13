@@ -5,8 +5,12 @@ Um Script feito em Python usando Pulp para resolver problemas de otimização li
 
 ## Como funciona :
 
-    O script carrega os dados contido no "investimentos.csv" e usando o Pulp calcula quais investimentos vão gerar o máximo de retorno seguindo as várias restrições estabelecidas no script.
+    O script carrega os dados contidos no "investimentos.csv" e usa o Pulp calcular quais investimentos 
+    vão gerar o máximo de retorno seguindo as várias restrições estabelecidas no script.
 
 ## Demosntração dos resultados:
+
+    ![Imagem1 demonstrando o resultado](arquivos/resultado.png)
+    ![Imagem2 demonstrando o resultado](arquivos/grafico.png)
 
 
